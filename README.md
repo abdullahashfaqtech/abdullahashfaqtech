@@ -8,8 +8,8 @@
 # 💻 Abdullah Ashfaq  
 
 **🌟 SQA Engineer**  
-**🏢 AB {Ark} Private Limited**  
-**🌐 Manual | Automation | Cypress | Selenium | API Testing | JMeter**
+**🏢 Contegris**  
+**🌐 Manual | Automation | Cypress | Selenium | API Testing | JMeter | Security Testing**
 
 ---
 
