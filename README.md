@@ -15,7 +15,7 @@
 
 ## 🚀 About Me  
 
-I'm **Abdullah Ashfaq**, a dedicated **Software Quality Assurance Engineer** with over **2 years** of hands-on experience in **manual and automated testing**.  
+I'm **Abdullah Ashfaq**, a dedicated **Software Quality Assurance Engineer** with over **2.5 years** of hands-on experience in **manual and automated testing**.  
 I specialize in delivering **bug-free, scalable, and high-performance applications** through robust testing strategies.  
 
 💡 I thrive on finding hidden bugs, automating end-to-end workflows, and ensuring seamless user experiences.
@@ -32,14 +32,15 @@ I specialize in delivering **bug-free, scalable, and high-performance applicatio
 - **Automation:** Cypress (JavaScript), Selenium (Python)  
 - **Manual Testing:** Functional, Regression, Integration, UI/UX  
 - **API Testing:** Postman (REST, GraphQL)  
-- **Performance Testing:** JMeter  
+- **Performance Testing:** JMeter
+- **Security Testing:** Burp Suite  
 
 ### 💻 Programming & Scripting  
 - JavaScript (Cypress), Python (Selenium)  
 
 ### 🗂️ Projects Automated  
 - **Selenium:** E-Workshop, Jett  
-- **Cypress:** Orange HRM  
+- **Cypress:** NowChat, CostSavings, Call Bot, Orange HRM  
 
 ### 🔧 Tools & Workflow  
 - Git, GitHub/GitLab, VSCode  
@@ -49,7 +50,7 @@ I specialize in delivering **bug-free, scalable, and high-performance applicatio
 
 ## 🏆 Achievements  
 
-- 🚀 Automated **3 complete projects** (2 in Selenium, 1 in Cypress).  
+- 🚀 Automated **5 complete projects** (2 in Selenium, 3 in Cypress).  
 - ⚡ Built reusable and scalable **automation test suites** for regression and functional testing.  
 - 🧠 Conducted **API Testing** for REST endpoints ensuring reliability and accuracy.  
 - 🌍 Performed **Performance Testing with JMeter** to validate application scalability.  
