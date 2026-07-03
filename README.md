@@ -50,7 +50,7 @@ I specialize in delivering **bug-free, scalable, and high-performance applicatio
 
 ## 🏆 Achievements  
 
-- 🚀 Automated **5 complete projects** (2 in Selenium, 3 in Cypress).  
+- 🚀 Automated **6 complete projects** (2 in Selenium, 4 in Cypress).  
 - ⚡ Built reusable and scalable **automation test suites** for regression and functional testing.  
 - 🧠 Conducted **API Testing** for REST endpoints ensuring reliability and accuracy.  
 - 🌍 Performed **Performance Testing with JMeter** to validate application scalability.  
